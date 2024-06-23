@@ -1,0 +1,139 @@
+#head{
+    display: flex;
+    justify-content: space-around;
+    /* display: inline-block; */
+
+    /* height: 200px;
+    width: 1500px; */
+}
+div img{
+    height: 70px;
+}
+h2{
+    font-size: 60px;
+    padding-left: 30px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    border: 1px solid hotpink;
+    color: hotpink;
+    border-radius: 30px;
+    font-size: 24px;
+}
+
+h3{
+    font-size: 40px;
+    /* padding-left: 450px;
+    padding-top: 100px; */
+    text-align: center;
+}
+pre{
+    text-align: center;
+    font-family:Poppins;
+    font-size: 20px;
+}
+div button{
+    background-color: hotpink;
+    color: white;
+    width: 300px;
+    height: 60px;
+    margin-left: 700px;
+}
+#img{
+    width: 900px;
+    padding-left: 400px;
+    padding-top: 50px;
+}
+
+#logo{
+    display: flex;
+    /* display: inline-block; */
+    justify-content: space-between;
+}
+#comm h1 {
+    font-size: 50px;
+    
+}
+#comm p{
+    font-size: 20px;
+}
+#comm{
+    margin-left: 400px;
+}
+
+#msg h1 {
+    font-size: 50px;
+    
+}
+#msg p{
+    font-size: 20px;
+}
+#msg{
+    margin-right: 400px;
+}
+#grow{
+    /* border: 1px solid black; */
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+#grow div{
+    display: inline-block;
+    margin-left: 400px;
+    margin-right: 200px;
+    top: 20px;
+}
+#illu{
+    height: 400px;
+    width: 700px;
+}
+#conver{
+    /* border: 1px solid black; */
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+#conver div{
+    display: inline-block;
+    margin-left: 400px;
+    margin-right: 200px;
+    top: 20px;
+}
+#user{
+    /* border: 1px solid black; */
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+#user div{
+    display: inline-block;
+    margin-left: 400px;
+    margin-right: 200px;
+    top: 20px;
+}
+#last{
+    margin-top: 100px;
+    display: inline;
+    text-align: center;
+    
+    
+}
+
+#last button{
+    align-items: center;
+    width: 320px;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.908);
+    height: 600px;
+}
+footer img{
+    width: 100%;
+}
+footer div{
+    color:white;
+    display: inline-block;
+    
+}
+#first{
+    margin-left: 10%;
+}
